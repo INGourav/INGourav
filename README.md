@@ -5,6 +5,7 @@
 - 📫 How to reach me, gouravin@outlook.com or https://www.linkedin.com/in/gouravrathore/
 - 🏆 Technet https://social.technet.microsoft.com/profile/gouravin/
 - 📚 Azure Blogs https://docs.rackspace.com/blog/authors/Gourav-Kumar
+- My resume https://github.com/INGourav/Azure-Resources/blob/master/Gourav_Kumar_Azure_Senior_Consultant.pdf
            
 
 <!---
