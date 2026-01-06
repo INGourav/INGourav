@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about Azure (to become a master architecture)
 - 💞️ I’m looking to collaborate on Anything related to cloud or code, where I can learn something new
 - 📫 How to reach me, gouravin@outlook.com or https://www.linkedin.com/in/gouravrathore/
-- 🏆 Technet https://social.technet.microsoft.com/profile/gouravin/
+- 🏆 Technet https://social.technet.microsoft.com/profile/gouravin/ or https://learn.microsoft.com/en-us/users/gouravin/
 - 📚 Azure Blogs https://docs.rackspace.com/blog/authors/Gourav-Kumar
 - My resume https://github.com/INGourav/Azure-Resources/blob/master/Gourav_Kumar_Azure_Senior_Consultant.pdf
            
